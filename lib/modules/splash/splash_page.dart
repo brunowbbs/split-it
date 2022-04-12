@@ -16,7 +16,7 @@ class SplashPage extends StatelessWidget{
         Column(
           mainAxisAlignment: MainAxisAlignment.spaceBetween,
           children: [
-
+            
             Row(
               children: [
                 Opacity(opacity: 0.2, child:
